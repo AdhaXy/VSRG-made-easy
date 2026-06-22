@@ -1,0 +1,8 @@
+nav {
+    display: inline-block;
+    word-spacing: 150%;    
+    border: 1px solid #000;
+    border-radius: 5px;
+    border-width: 10%;
+}
+
